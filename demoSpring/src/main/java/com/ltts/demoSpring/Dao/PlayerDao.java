@@ -7,7 +7,7 @@ import com.ltts.demoSpring.model.Player;
 @Repository
 public class PlayerDao {
 	
-	//Hibernate or SpringData JPA
+	
 	
 	public boolean insertPlayer(Player p) {
 		//Hibernate based Code or Spring DataJPA

@@ -1,13 +1,18 @@
 package com.ltts.demoSpring.model;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
 
+@Entity
 public class Player {
 
+	@Id
 	private int playerNo;
 	private String playerName;
 	private int teamNo;
 	private String mobile;
 	private int totalRuns;
+	
 	
 	
 	

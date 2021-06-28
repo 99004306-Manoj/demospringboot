@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to Spring Boot Application</h1>
-<a href="player">Add Player</a> | <a href="movie">Add Movie</a>
+<h1>Successfully Inserted...</h1>
 </body>
 </html>
